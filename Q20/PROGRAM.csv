@@ -1,0 +1,3 @@
+prog_id,program_name,degree,duration,dept_id
+P01,"Bachelor of Science in Computer Science",BSc,"4 years",D01
+P02,"Master of Applied Computing",MAC,"2 years",D01
